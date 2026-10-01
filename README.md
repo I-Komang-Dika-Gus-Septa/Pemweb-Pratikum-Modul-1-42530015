@@ -39,7 +39,7 @@ Berikut adalah catatan hasil pengujian tampilan antarmuka dan responsivitas apli
 
 1. *Clone* repositori ini:
    ```bash
-   git clone https://github.com/ryanthaaa/pemweb-praktikum-modul-1.git
+   git clone https://github.com/I-Komang-Dika-Gus-Septa/Pemweb-Pratikum-Modul-1-42530015.git
 2. *Masuk* kedalam folder
     ```bash
    cd rwd-lab
